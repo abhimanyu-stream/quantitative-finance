@@ -290,8 +290,4 @@ Both metrics are essential for portfolio performance attribution
 All these methods follow best practices in quantitative finance and implement the algorithms efficiently. They provide a comprehensive suite of tools for time series analysis, risk management, and performance measurement.
 
 # quantitative-finance
-# quantitative-finance
-# quantitative-finance
-# quantitative-finance
-# quantitative-finance
-# quantitative-finance
+
